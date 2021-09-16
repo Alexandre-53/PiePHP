@@ -1,0 +1,13 @@
+{
+    "app":{
+        "title": "PiePHP",
+        "capcha_key_site": "",
+        "capcha_secret_key": ""
+    },
+    "database":{
+        "host": "",
+        "user": "",
+        "password": "",
+        "dbname": ""
+    }
+}
